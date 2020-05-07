@@ -1,2 +1,2 @@
 # CursoNodeJS
- Curso desenvolvimento node portal alura
+ Curso Desenvolvimento NodeJS portal alura.com.br
